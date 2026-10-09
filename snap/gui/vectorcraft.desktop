@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=VectorCraft
+GenericName=Vector Graphics Editor
+Comment=Draw and edit vector illustrations, SVG and PDF
+Exec=vectorcraft %F
+Icon=${SNAP}/meta/gui/vectorcraft.png
+Terminal=false
+StartupNotify=true
+StartupWMClass=ai.storyteller.vectorcraft
+Categories=Graphics;2DGraphics;VectorGraphics;
+Keywords=vector;illustration;svg;pdf;drawing;bezier;
+MimeType=image/svg+xml;application/pdf;
